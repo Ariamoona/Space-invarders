@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         Move();
-        if (Input.GetButtonDown("Fire1")) // По умолчанию это левая кнопка мыши или Ctrl
+        if (Input.GetButtonDown("Fire1")) 
         {
             Shoot();
         }
@@ -22,7 +22,7 @@ public class PlayerController : MonoBehaviour
         Vector2 movement = new Vector2(horizontalInput, 0);
         transform.Translate(movement * moveSpeed * Time.deltaTime);
 
-        // Ограничение движения игрока по краям экрана
+        
         float clampedX = Mathf.Clamp(transform.position.x, -14f, 14f);
         transform.position = new Vector2(clampedX, transform.position.y);
     }

@@ -19,7 +19,7 @@ public class Invaders : MonoBehaviour
 
     private Vector3 _direction = Vector2.right;
 
-    [System.Diagnostics.CodeAnalysis.SuppressMessage("Style", "IDE0090:Используйте \"new(...)\".", Justification = "<Ожидание>")]
+    
     private void Awake()
     {
         for (int row = 0; row < this.rows; row++)

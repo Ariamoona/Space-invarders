@@ -53,7 +53,7 @@ public class Invader : MonoBehaviour
         if (transform.position.x > 14f || transform.position.x < -14f)
         {
             movingRight = !movingRight;
-            transform.position += Vector3.down * 0.5f; // Снижаем врага вниз при смене направления
+            transform.position += Vector3.down * 0.5f; 
         }
     }
 }

@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Arina\\My project (5)\\",
+  "WorkspaceRootPath": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\My project (5)\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\arina\\my project (5)\\assets\\scripts\\invader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\assets\\scripts\\invader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\My project (5)\\assets\\scripts\\invaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\assets\\scripts\\invaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\My project (5)\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\My project (5)\\assets\\scripts\\bunker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bunker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,40 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bunker.cs",
-              "DocumentMoniker": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Bunker.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bunker.cs",
-              "ToolTip": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Bunker.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bunker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T18:02:39.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T15:04:34.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
-              "ToolTip": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Projectile.cs",
               "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,26 +56,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Invaders.cs",
-              "DocumentMoniker": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Invaders.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Invaders.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Invaders.cs",
-              "ToolTip": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Invaders.cs",
+              "ToolTip": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Invaders.cs",
               "RelativeToolTip": "Assets\\Scripts\\Invaders.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwCEAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T14:17:35.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Invader.cs",
-              "DocumentMoniker": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Invader.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Invader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Invader.cs",
-              "ToolTip": "C:\\Users\\Arina\\My project (5)\\Assets\\Scripts\\Invader.cs",
+              "ToolTip": "C:\\Users\\Arina\\OneDrive\\Desktop\\My project (5)\\Assets\\Scripts\\Invader.cs",
               "RelativeToolTip": "Assets\\Scripts\\Invader.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T13:37:13.11Z",
               "EditorCaption": ""
